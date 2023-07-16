@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.075935eb.chunk.css",
+    "main.js": "/static/js/main.c5c13bb2.chunk.js",
+    "main.js.map": "/static/js/main.c5c13bb2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.807e486e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.807e486e.js.map",
+    "static/js/2.039e8453.chunk.js": "/static/js/2.039e8453.chunk.js",
+    "static/js/2.039e8453.chunk.js.map": "/static/js/2.039e8453.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.075935eb.chunk.css.map": "/static/css/main.075935eb.chunk.css.map",
+    "static/js/2.039e8453.chunk.js.LICENSE.txt": "/static/js/2.039e8453.chunk.js.LICENSE.txt",
+    "static/media/login.css": "/static/media/facebook logo i 0.2e8b91ad.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.807e486e.js",
+    "static/js/2.039e8453.chunk.js",
+    "static/css/main.075935eb.chunk.css",
+    "static/js/main.c5c13bb2.chunk.js"
+  ]
+}
